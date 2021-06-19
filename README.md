@@ -1,4 +1,4 @@
-# Recreate Naao App which is basically developed by [Foysal](https://twitter.com/foysalit) and [Suborna](https://twitter.com/iraamoni)
+# Recreated Naao App which is basically developed by [Foysal](https://twitter.com/foysalit) and [Suborna](https://twitter.com/iraamoni)
 
 ----
 ## What is this "Naao App" about?
